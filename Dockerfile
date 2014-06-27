@@ -1,4 +1,4 @@
-FROM mysql
+FROM mysql:latest
 MAINTAINER Marius Bergmann <marius@yeai.de>
 
 # Add my.cnf
